@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🧑🏻‍💻 I'm a Mobile App Developer
-- ❤️ I love Flutter & Dart
 - 💪 I've got a strong knowledge of Swift
+- ❤️ I love Flutter & Dart
