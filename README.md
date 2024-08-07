@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🧑🏻‍💻 I'm a Mobile App Developer
-- 💪 I've got a strong knowledge of Swift
+- 💪 I've got a strong knowledge of iOS Swift
 - ❤️ I love Flutter & Dart
